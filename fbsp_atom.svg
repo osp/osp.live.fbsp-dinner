@@ -15,8 +15,6 @@
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="fbsp_atom.svg">
-  <defs
-     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,9 +22,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="255.38272"
-     inkscape:cy="342.07353"
+     inkscape:zoom="1.115801"
+     inkscape:cx="-141.86793"
+     inkscape:cy="331.12207"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -38,6 +36,8 @@
      units="cm"
      borderlayer="true"
      inkscape:showpageshadow="false" />
+  <defs
+     id="defs4" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -51,32 +51,32 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
+     transform="translate(0,-520.86481)"
      id="layer1"
-     transform="translate(0,-520.86481)">
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
     <path
-       style="fill:#000000"
-       d="m 110.47213,830.70604 0,-19 22.68356,0 22.68356,0 -27.43356,-17.45658 -27.43356,-17.45659 -0.29772,5.95659 -0.29772,5.95658 -22.952282,0 -22.95228,0 0,-36.5 0,-36.5 9.5,0 9.5,0 0,-26.5 0,-26.5 -22,0 -22,0 0,-23 0,-23 35.44774,0 35.447742,0 0.30226,5.05405 0.30226,5.05406 23.75,-15.13158 23.75,-15.13159 0,-26.42247 0,-26.42247 29,0 29,0 0,25.9319 0,25.93191 2.75,1.93798 c 4.13491,2.91395 35.7939,22.08595 37.64179,22.79505 1.40506,0.53918 1.60821,-0.53324 1.60821,-8.48985 l 0,-9.10699 28,0 28,0 0,40 0,40 -11.34721,0 -11.34721,0 -0.64824,11.25 c -0.35654,6.1875 -0.65029,16.7625 -0.65279,23.5 l -0.005,12.25 16,0 16,0 0,27.5 0,27.5 -35.3713,0 -35.37129,0 -21.13117,13.25 -21.13116,13.25 25.50246,0.26688 25.50246,0.26688 0,18.98312 0,18.98312 -70,0 -70,0 0,-19 z m 61,-55.5 0,-32.5 -8.96725,0 -8.96725,0 -0.28275,-10.99816 -0.28275,-10.99816 -26,14.85558 -26,14.85558 -0.23553,6.39258 -0.23552,6.39258 35.17184,22.25 c 19.34451,12.2375 35.313,22.25 35.48553,22.25 0.17252,0 0.31368,-14.625 0.31368,-32.5 z m 42.75,13.27291 24.25,-15.24473 0,-15.14503 0,-15.14503 -17.9649,-10.02717 -17.96489,-10.02718 -0.28511,9.65811 -0.2851,9.65812 -9.25,0.28753 -9.25,0.28752 0,32.56068 0,32.56067 3.25,-2.08938 c 1.7875,-1.14916 14.1625,-8.94951 27.5,-17.33411 z m -60.75,-86.96212 c 0,-4.88349 -0.34394,-5.98551 -2.25,-7.20929 -1.2375,-0.79454 -14.38968,-8.22991 -29.22707,-16.52305 C 96.731378,663.66372 94.683088,662.70604 89.745058,662.70604 l -5.27293,0 0.0153,25.25 c 0.008,13.8875 0.35836,25.78966 0.77765,26.44924 0.43932,0.69111 3.71658,1.32668 7.73468,1.5 l 6.972362,0.30076 0.28295,10.66282 0.28294,10.66282 26.46706,-15.12509 26.46705,-15.12508 0,-5.76468 z m 116,4.68921 0,-23.5 -10.5,0 -10.5,0 0,-8 c 0,-4.4 -0.17492,-8 -0.3887,-8 -0.21379,0 -10.45129,5.75618 -22.75,12.79151 l -22.3613,12.7915 0,8.84957 0,8.84957 17.5,9.84705 17.5,9.84706 15.75,0.0119 15.75,0.0118 0,-23.5 z m -116,-38.5 0,-14 9,0 9,0 0,-26 0,-26 -4.86222,0 c -4.59929,0 -6.50551,1.04421 -35.25,19.30964 l -30.38778,19.30964 0,6.29033 0,6.29034 25.5,14.36528 c 14.025,7.9009 25.8375,14.38091 26.25,14.40002 0.4125,0.0191 0.75,-6.26525 0.75,-13.96525 z m 69.8081,-0.15817 c 27.80001,-15.75254 25.1919,-13.29235 25.1919,-23.76315 l 0,-8.78514 -27.36271,-16.64677 c -26.0003,-15.81791 -27.6185,-16.64677 -32.5,-16.64677 l -5.13729,0 0,25.96247 0,25.96248 9.25,0.28752 9.25,0.28753 0.28078,12.25 c 0.15443,6.7375 0.51807,12.25 0.8081,12.25 0.29003,0 9.38868,-5.02118 20.21922,-11.15817 z"
-       id="path3050"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccssscccccccsccccccccccccccccccscccccccccsssscccccccccccsscssscccscccccccccccssscccccccccscccccsscccscssscsscccccsss"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccssscccccccsccccccccccccccccccscccccccccsssscccccccccccsscssscccscccccccccccssscccccccccscccccsscccscssscsscccccsss" />
+       id="path3050"
+       d="m 110.47213,830.70604 0,-19 22.68356,0 22.68356,0 -27.43356,-17.45658 -27.43356,-17.45659 -0.29772,5.95659 -0.29772,5.95658 -22.952282,0 -22.95228,0 0,-36.5 0,-36.5 9.5,0 9.5,0 0,-26.5 0,-26.5 -22,0 -22,0 0,-23 0,-23 35.44774,0 35.447742,0 0.30226,5.05405 0.30226,5.05406 23.75,-15.13158 23.75,-15.13159 0,-26.42247 0,-26.42247 29,0 29,0 0,25.9319 0,25.93191 2.75,1.93798 c 4.13491,2.91395 35.7939,22.08595 37.64179,22.79505 1.40506,0.53918 1.60821,-0.53324 1.60821,-8.48985 l 0,-9.10699 28,0 28,0 0,40 0,40 -11.34721,0 -11.34721,0 -0.64824,11.25 c -0.35654,6.1875 -0.65029,16.7625 -0.65279,23.5 l -0.005,12.25 16,0 16,0 0,27.5 0,27.5 -35.3713,0 -35.37129,0 -21.13117,13.25 -21.13116,13.25 25.50246,0.26688 25.50246,0.26688 0,18.98312 0,18.98312 -70,0 -70,0 0,-19 z m 61,-55.5 0,-32.5 -8.96725,0 -8.96725,0 -0.28275,-10.99816 -0.28275,-10.99816 -26,14.85558 -26,14.85558 -0.23553,6.39258 -0.23552,6.39258 35.17184,22.25 c 19.34451,12.2375 35.313,22.25 35.48553,22.25 0.17252,0 0.31368,-14.625 0.31368,-32.5 z m 42.75,13.27291 24.25,-15.24473 0,-15.14503 0,-15.14503 -17.9649,-10.02717 -17.96489,-10.02718 -0.28511,9.65811 -0.2851,9.65812 -9.25,0.28753 -9.25,0.28752 0,32.56068 0,32.56067 3.25,-2.08938 c 1.7875,-1.14916 14.1625,-8.94951 27.5,-17.33411 z m -60.75,-86.96212 c 0,-4.88349 -0.34394,-5.98551 -2.25,-7.20929 -1.2375,-0.79454 -14.38968,-8.22991 -29.22707,-16.52305 C 96.731378,663.66372 94.683088,662.70604 89.745058,662.70604 l -5.27293,0 0.0153,25.25 c 0.008,13.8875 0.35836,25.78966 0.77765,26.44924 0.43932,0.69111 3.71658,1.32668 7.73468,1.5 l 6.972362,0.30076 0.28295,10.66282 0.28294,10.66282 26.46706,-15.12509 26.46705,-15.12508 0,-5.76468 z m 116,4.68921 0,-23.5 -10.5,0 -10.5,0 0,-8 c 0,-4.4 -0.17492,-8 -0.3887,-8 -0.21379,0 -10.45129,5.75618 -22.75,12.79151 l -22.3613,12.7915 0,8.84957 0,8.84957 17.5,9.84705 17.5,9.84706 15.75,0.0119 15.75,0.0118 0,-23.5 z m -116,-38.5 0,-14 9,0 9,0 0,-26 0,-26 -4.86222,0 c -4.59929,0 -6.50551,1.04421 -35.25,19.30964 l -30.38778,19.30964 0,6.29033 0,6.29034 25.5,14.36528 c 14.025,7.9009 25.8375,14.38091 26.25,14.40002 0.4125,0.0191 0.75,-6.26525 0.75,-13.96525 z m 69.8081,-0.15817 c 27.80001,-15.75254 25.1919,-13.29235 25.1919,-23.76315 l 0,-8.78514 -27.36271,-16.64677 c -26.0003,-15.81791 -27.6185,-16.64677 -32.5,-16.64677 l -5.13729,0 0,25.96247 0,25.96248 9.25,0.28752 9.25,0.28753 0.28078,12.25 c 0.15443,6.7375 0.51807,12.25 0.8081,12.25 0.29003,0 9.38868,-5.02118 20.21922,-11.15817 z"
+       style="fill:#000000" />
     <text
-       xml:space="preserve"
-       style="font-size:48.8643074px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="174.32442"
-       y="929.33331"
+       sodipodi:linespacing="100%"
        id="text3052"
-       sodipodi:linespacing="100%"><tspan
-         sodipodi:role="line"
-         id="tspan3054"
-         x="174.32442"
+       y="929.33331"
+       x="174.32442"
+       style="font-size:48.8643074px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:52px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Linux Libertine;-inkscape-font-specification:Linux Libertine"
          y="929.33331"
-         style="font-size:52px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Linux Libertine;-inkscape-font-specification:Linux Libertine">At least a city</tspan><tspan
-         sodipodi:role="line"
-         x="180.82442"
-         y="981.33331"
+         x="174.32442"
+         id="tspan3054"
+         sodipodi:role="line">At least a city</tspan><tspan
+         style="font-size:52px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Linux Libertine;-inkscape-font-specification:Linux Libertine"
          id="tspan3056"
-         style="font-size:52px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Linux Libertine;-inkscape-font-specification:Linux Libertine">that got books! </tspan></text>
+         y="981.33331"
+         x="180.82442"
+         sodipodi:role="line">that got books! </tspan></text>
   </g>
 </svg>
